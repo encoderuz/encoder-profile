@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdukodir</h1>
 <h3 align="center">Fullstack developer from UZBEKISTAN</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=encoderuz" alt="encoderuz" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=encoderuz" alt="encoderuz" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [TSPU](my.tdpu.uz)
 
